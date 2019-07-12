@@ -1,0 +1,5 @@
+venti = 20
+grande = 16
+tall = 12
+short = 8
+puts "Please enter the size of your coffee order (venti, grande, tall, short)"
